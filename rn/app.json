@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "한걸음 클럽",
+    "slug": "sample-mobile-pwa-native",
+    "version": "1.0.0",
+    "scheme": "onestep",
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "한걸음 클럽 · React Native"
+    },
+    "experiments": {
+      "baseUrl": "/sample-mobile-pwa/rn"
+    }
+  }
+}
